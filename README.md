@@ -18,7 +18,7 @@ The lookup table is used for calculation of the ionic equilibria during model si
 
 ## Running the example
 
-Place the MATLAB script and lookup-table file in the same directory and run the main script.
+Place `sim_transcription_population_model_12mer.m` and `gridded_lookup_table.mat` in the same directory, then run `sim_transcription_population_model_12mer.m` in MATLAB.
 
 The script:
 1. loads the ionic-equilibrium lookup table;
