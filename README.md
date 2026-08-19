@@ -12,7 +12,7 @@ The code simulates the concentration-time profiles of runoff RNA and total abort
 ## Requirements
 
 - MATLAB
-- `gridded_lookup_table_5_50_50_50.mat`
+- `gridded_lookup_table.mat`
 
 The lookup table is used for calculation of the ionic equilibria during model simulation.
 
