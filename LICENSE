@@ -1,0 +1,138 @@
+Academic and Research Use Licence (ARUL)
+Version 1.1 - 20 Aug 2026
+
+Copyright (c) 2026 The University of Sheffield. All rights reserved.
+
+Developed at the School of Chemical, Materials and Biological Engineering,
+University of Sheffield, United Kingdom. Individual contributors are
+credited in the associated publication.
+
+--------------------------------------------------------------------------
+1. DEFINITIONS
+--------------------------------------------------------------------------
+
+"Software" means the MATLAB source code, scripts, and associated lookup-table
+files contained in this repository, which provide a representative
+implementation for simulating the population-based in vitro transcription
+model for the 12-nucleotide RNA construct considered in Case Study II of
+the associated publication, together with the documentation accompanying
+them and any modification of or derivative work based on any of the
+foregoing.
+
+"Non-Commercial Use" means use for academic research, teaching, private
+study or internal evaluation, where that use is not intended for or
+directed towards commercial advantage or monetary compensation. For the
+avoidance of doubt, the following are NOT Non-Commercial Use: use by or on
+behalf of a commercial entity; use in providing a service for which a fee
+is charged; and use in the development, validation, manufacture or
+regulatory approval of any product or service offered or intended to be
+offered for sale. Use carried out under a research agreement funded by a
+commercial entity is not Non-Commercial Use unless that agreement expressly
+provides otherwise.
+
+"Licensor" means the University of Sheffield.
+
+--------------------------------------------------------------------------
+2. GRANT OF LICENCE
+--------------------------------------------------------------------------
+
+Subject to the conditions below, the Licensor grants you a worldwide,
+royalty-free, non-exclusive, non-transferable and non-sublicensable licence
+to use, reproduce and modify the Software for Non-Commercial Use only.
+
+--------------------------------------------------------------------------
+3. CONDITIONS
+--------------------------------------------------------------------------
+
+3.1 Citation. Any publication, presentation or public disclosure of results
+obtained using the Software must cite:
+
+P. Mendis and Z. Kis, "A Population-Based Mechanistic Process Model of In Vitro
+Transcription with Explicit Tracking of Intermediate Transcription
+Complexes", [Journal], [year], [volume], [pages]. DOI: [article DOI]
+
+3.2 Redistribution. Redistributions of the Software or of derivative works,
+in source or compiled form, must retain the copyright notice above, the
+full text of this Licence, and the disclaimer at clause 8, and must be
+made under the terms of this Licence.
+
+3.3 No endorsement. You may not use the name of the Licensor, or the names
+of contributors, to endorse or promote products derived from the Software
+without prior written permission.
+
+--------------------------------------------------------------------------
+4. RESERVATION OF RIGHTS
+--------------------------------------------------------------------------
+
+All rights not expressly granted by this Licence are reserved by the
+Licensor. No licence is granted, whether expressly, by implication or by
+estoppel, under any patent, trade mark, database right or other
+intellectual property right of the Licensor. Commercial use of the
+Software, in whole or in part, requires a separate written licence
+agreement with the Licensor (see clause 10).
+
+--------------------------------------------------------------------------
+5. THIRD-PARTY COMPONENTS AND REQUIRED SOFTWARE
+--------------------------------------------------------------------------
+
+The Software is written for MATLAB(R) and requires MATLAB and any toolboxes
+listed in README.md, which are licensed separately by The MathWorks, Inc.
+and are not part of the Software. Any further third-party components are
+distributed under their own terms. This Licence does not alter, and cannot
+alter, the terms on which any of those components are licensed to you.
+
+--------------------------------------------------------------------------
+6. RESEARCH USE ONLY
+--------------------------------------------------------------------------
+
+The Software is supplied for research purposes. It has not been validated
+or qualified for use in GMP manufacturing, for clinical or diagnostic
+purposes, for the control of any manufacturing process producing material
+intended for human or animal administration, or for inclusion in any
+regulatory submission. You are solely responsible for determining the
+suitability of the Software for any use you make of it.
+
+--------------------------------------------------------------------------
+7. TERM AND TERMINATION
+--------------------------------------------------------------------------
+
+This Licence takes effect when you first exercise any right granted by it
+and continues until terminated. It terminates automatically and without
+notice if you breach any of its terms. On termination you must cease all
+use of the Software and destroy all copies in your possession. Clauses 4, 8
+and 9 survive termination. The Licensor may reinstate this Licence in
+writing.
+
+--------------------------------------------------------------------------
+8. DISCLAIMER OF WARRANTY AND LIABILITY
+--------------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT. IN NO
+EVENT SHALL THE LICENSOR OR ANY CONTRIBUTOR BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE. NOTHING IN THIS LICENCE EXCLUDES OR
+LIMITS LIABILITY FOR DEATH OR PERSONAL INJURY CAUSED BY NEGLIGENCE, OR FOR
+FRAUD, OR FOR ANY OTHER LIABILITY THAT CANNOT BE EXCLUDED BY LAW.
+
+--------------------------------------------------------------------------
+9. GOVERNING LAW
+--------------------------------------------------------------------------
+
+This Licence is governed by the laws of England and Wales, and the courts
+of England and Wales have exclusive jurisdiction over any dispute arising
+from it.
+
+--------------------------------------------------------------------------
+10. COMMERCIAL LICENSING ENQUIRIES
+--------------------------------------------------------------------------
+
+Commercialisation Team, University of Sheffield
+	https://sheffield.ac.uk/commercialisation
+
+Research Contracts, University of Sheffield
+	ri-contracts@sheffield.ac.uk
+
+Academic contact (project lead): Prof. Zoltan Kis, z.kis@sheffield.ac.uk
